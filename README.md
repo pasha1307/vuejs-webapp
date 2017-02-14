@@ -1,6 +1,6 @@
 # vue-prj
 
-> A Vue.js project
+> A Vue.js project demo at vuejs-app.s3-website-us-east-1.amazonaws.com
 
 ## Build Setup
 
